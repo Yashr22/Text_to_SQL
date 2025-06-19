@@ -14,7 +14,7 @@ This project is an **AI-powered application** that converts **natural language q
 
 ---
 
-## 🛠️ Tech Stack
+##  Tech Stack
 
 - Python 
 - Streamlit
